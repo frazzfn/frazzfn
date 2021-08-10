@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @frazzfn
 - 👀 I’m interested in software engineering and crypto.
-- 🌱 I’m currently learning how to create my own crypto currency.
+- 🌱 I’m currently learning how to trade crypto and create my own crypto trading bot.
 - 📫 My email address is D14alfiereardon@gmail.com
